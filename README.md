@@ -7,6 +7,12 @@
 
 ---
 
+## Vista Previa
+
+<img src="assets/preview.png" width="100%" alt="Pagina de inicio de Sabores de Latinoamerica" />
+
+---
+
 ## Acerca del Proyecto
 
 **Sabores de Latinoamerica** es un sitio informativo que recorre la cultura gastronomica de naciones latinoamericanas, con una pagina dedicada a la cocina tradicional, ingredientes y platos tipicos de cada pais.
